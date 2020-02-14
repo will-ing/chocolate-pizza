@@ -1,0 +1,144 @@
+body {
+  margin: 0px;
+  
+}
+
+header {
+  width: 100%;
+  display: flex;
+  height: 50px;
+  margin: 0px 400px;
+
+}
+
+.first {
+  width: 30px;
+  height: 30px;
+  
+}
+
+header h2 {
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 20px;
+  display: inline-block;
+  margin: 0px;
+}
+
+header p {
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+.icons {
+  display: inline-block;
+  margin-left: 300px;
+}
+
+main {
+  width: 900px;
+  margin: 0px 400px;
+}
+
+main h1 {
+  font-weight: bolder;
+  width: 30%;
+  margin-top: 0px;
+}
+
+main p {
+  font-size: 10px;
+}
+
+main figure {
+  margin-left: 0px;
+}
+
+main figure img {
+  width: 90%;
+  height: 400px;
+ 
+  display: absolute;
+}
+
+.hero {
+  
+  width: 9  00px;
+  
+}
+
+article {
+  height: 100px;
+  width: 100%;
+  
+}
+
+article section p {
+  height: 10%;
+  font-size: 10px;
+}
+
+section img {
+  width: 750px;
+  position: absolute;
+
+}
+
+
+section ul.one {
+  position: absolute;
+  display: inline-block;
+  width: 30%;
+  height: 100%;
+  color: black;
+}
+
+section ul.two {
+  position: relative;
+  display: inline-block;
+  width: 30%;
+  height: 100%;
+  color: black;
+  margin-left: 300px;
+}
+
+section li {
+  list-style-type: square;
+}
+
+.last {
+  height: 100px;
+  width: 500px;
+  margin-top: 100px;
+  display: relative;
+}
+
+section:last-of-type img {
+  border-radius: 30%;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 0px 0px 20px 65px;
+}
+
+
+
+
+input {
+  width: 200px;
+  color: azure;
+  background-color: rgb(188,112,88);
+  margin-left: 500px;
+  margin-bottom: 50px;
+  display: inline-block;
+  position: absolute;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
